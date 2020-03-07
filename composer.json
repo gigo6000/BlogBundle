@@ -13,10 +13,10 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "symfony/framework-bundle": "~2.7",
+        "symfony/framework-bundle": "~2.7|~3.0",
         "knplabs/knp-paginator-bundle": "*",
         "gedmo/doctrine-extensions": "2.4.4",
-        "gregwar/captcha-bundle": "1.0.*"
+        "gregwar/captcha-bundle": "2.0.*"
     },
     "require-dev": {
         "desarrolla2/cache": "1.*",
